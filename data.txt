@@ -1,0 +1,4 @@
+John Doe 1 15 1990 ElmStreet NewYork NY 10001 123-456-7890 Family
+Jane Smith 5 10 1985 OakStreet SanFrancisco CA 94102 987-654-3210 Friend
+Alan Brown 8 25 1975 PineStreet Chicago IL 60616 555-555-5555 Business
+Mary Johnson 12 30 1992 MapleStreet Boston MA 02110 222-333-4444 Friend
